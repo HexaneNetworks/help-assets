@@ -14,6 +14,8 @@ Article  Assets for the Knowledge Base / Help Centre.
 
 * [Hyrogenic](https://steamcommunity.com/id/Hyrogenic) - Active
 * havasu - 2017-2018
+* viction - 2018
+* Bucket - 2018
 
 ## License
 
